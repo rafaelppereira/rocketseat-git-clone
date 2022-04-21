@@ -34,7 +34,7 @@ const Repo: React.FC = () => {
         </li>
       </Stars>
 
-      <LinkButton href={'https://github.com/Rafael1512/aulas'}>
+      <LinkButton href={'https://github.com/rafaelppereira/aulas'}>
         <GithubIcon/>
         <span>View on Github</span>
       </LinkButton>
