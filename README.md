@@ -1,6 +1,6 @@
 <h1 align="center">Github clone</h1>
 
-<p align="center">The Temporizer is for you to practice the pomodoro methodology, both for work and for studying</p>
+<p align="center">This project was created to make a Github clone, the github api was used to make user requests</p>
 
 <p align="center">To start the project just run the commands below</p>
 
